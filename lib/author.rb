@@ -33,4 +33,3 @@ class Author
   end
 end
      
-17  lib/post.rb
