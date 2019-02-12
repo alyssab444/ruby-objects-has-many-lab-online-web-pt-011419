@@ -16,4 +16,5 @@ class Artist
     new_song.artist = self  
   end
 end 
+
  
